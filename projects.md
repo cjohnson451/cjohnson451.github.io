@@ -6,7 +6,7 @@ image: assets/images/projects.jpg
 nav-menu: true
 ---
 
-<div class="inner" style="max-width: 800px; margin: 0 auto; padding: 2em 40px; background-color: rgba(255, 255, 255, 0.95); border-radius: 5px;">
+<div class="inner" style="max-width: 800px; margin: 0 auto; padding: 2em 40px; background-color: rgba(255, 255, 255, 0.0); border-radius: 5px;">
     <section>
         <div class="content">
             <h2 style="text-align: center;">Featured Projects</h2>
