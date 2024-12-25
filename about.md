@@ -2,11 +2,11 @@
 layout: page
 title: About Me
 description: Get to know me better
-image: assets/images/pic11.jpg
+image: assets/images/aboutme.jpg
 nav-menu: true
 ---
 
-<div class="inner" style="max-width: 800px; margin: 0 auto; padding: 0 40px;">
+<div class="inner" style="max-width: 800px; margin: 0 auto; padding: 2em 40px; background-color: rgba(255, 255, 255, 0.95); border-radius: 5px;">
     <section>
         <div class="content">
             <h2 style="text-align: center;">Who Am I?</h2>
