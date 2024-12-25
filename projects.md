@@ -2,14 +2,14 @@
 layout: page
 title: Projects
 description: My Portfolio
-image: assets/images/pic11.jpg
+image: assets/images/projects.jpg
 nav-menu: true
 ---
 
-<div class="inner">
+<div class="inner" style="max-width: 800px; margin: 0 auto; padding: 2em 40px; background-color: rgba(255, 255, 255, 0.95); border-radius: 5px;">
     <section>
         <div class="content">
-            <h2>Featured Projects</h2>
+            <h2 style="text-align: center;">Featured Projects</h2>
             
             <div class="box">
                 <h3>LIGO Data Quality Classification</h3>
@@ -26,8 +26,6 @@ nav-menu: true
                     <li><a href="#" class="button">View Project</a></li>
                 </ul>
             </div>
-
-            <!-- Add more projects as needed -->
         </div>
     </section>
 </div>

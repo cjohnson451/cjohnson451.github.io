@@ -1,7 +1,16 @@
 .page-header {
-    background-position: center !important;
     background-size: cover !important;
     min-height: 25vh;
+}
+
+/* Specific positioning for About Me page */
+.about-me .page-header {
+    background-position: center 12% !important;
+}
+
+/* Specific positioning for Projects page */
+.projects .page-header {
+    background-position: center center !important;
 }
 
 #main > .inner {
