@@ -12,18 +12,3 @@
 .projects .page-header {
     background-position: center center !important;
 }
-
-/* Keep the default transparent background for all pages */
-#main > .inner {
-    background-color: transparent;
-}
-
-/* Override for the About Me page */
-.about-me #main > .inner {
-    background-color: #fff; /* or another color, e.g. #f9f9f9 */
-}
-
-/* Override for the Projects page */
-.projects #main > .inner {
-    background-color: #fff;
-}
