@@ -11,16 +11,14 @@ nav-menu: true
         <div class="content">
             <h2 style="text-align: center;">Who Am I?</h2>
             <p style="text-align: justify;">
-                My name is Cole Johnson, and I am a 21-year-old undergraduate senior from the Washington, D.C., area. My biggest hobbies include playing sports (especially basketball, soccer, and tennis), reading science fiction, and recently learning Spanish and Mandarin. I am currently pursuing a Bachelor of Science in Computer Science at the University of Southern California and expect to graduate in May 2025.
+                My name is Cole Johnson. I'm an undergraduate senior, originally from the Washington, D.C. area, and have my Bachelor of Science in Computer Science from the University of Southern California. My studies have also taken me abroad to the University of Edinburgh for a semester. Outside of tech, my biggest hobbies include playing sports (especially basketball, soccer, and tennis), reading science fiction, and learning new languages.
             </p>
 
             <h2 style="text-align: center;">What Are My Interests?</h2>
             <p style="text-align: justify;">
-                Since childhood, I have been fascinated by sci-fi books and movies about AI and its impact on the future. During the COVID pandemic, I used my extra free time to dive into this interest. I spent a year taking an online Stanford course on machine learning and launched my own projects, which eventually led to an internship where I developed a neural network to categorize the quality of gravitational wave data for LIGO (Laser Interferometer Gravitational-Wave Observatory).
-            </p>
+                My journey into computer science began with a fascination for AI, sparked by years of reading science fiction. This led me to explore machine learning and build AI-powered applications.
 
-            <p style="text-align: justify;">
-                At USC, exploring the full range of topics within computer science has allowed me to broaden my interests beyond AI, including software, hardware, and more. My primary focus now is on applying my technical skills to real-world challenges—whether by providing insights, building impactful applications, or conducting research in AI.
+                While at USC, my coursework and projects  broadened my perspective significantly. I've developed a deep interest in the fundamentals of how software and hardware interact. This passion led me to one of my favorite projects: building a full-stack RISC-V CPU emulator from the ground up in Rust. I'm also driven to apply my skills to pressing, real-world challenges, which was the motivation behind my work on the Skyguard project, where I engineered a data pipeline on a Raspberry Pi to help a landmine detection model aid demining efforts in Ukraine.
             </p>
 
             <h2 style="text-align: center;">What Are My Goals?</h2>
@@ -29,16 +27,17 @@ nav-menu: true
             </p>
 
             <p style="text-align: justify;">
-                After building a strong foundation of applied technical knowledge, I aspire to transition into higher-level roles that enable me to drive positive change. Ultimately, I hope to contribute to bettering the lives of as many people as possible through technology.
+                My immediate goal is to establish myself in the industry, working on challenging problems in fields like systems programming, machine learning, and software engineering. I'm particularly drawn to roles where I can contribute to foundational technologies and build tools that have a meaningful impact, whether for other developers or for society at large.
+
+                Looking further ahead, after building a strong foundation of applied technical knowledge, I aspire to grow into roles where I can help drive innovation and lead teams to solve complex problems. Ultimately, I hope to leverage technology to help better the lives of as many people as possible.
             </p>
 
             <h2 style="text-align: center;">What Skills Do I Possess?</h2>
             <div style="max-width: 600px; margin: 0 auto;">
                 <ul style="list-style-position: inside; padding-left: 20px;">
-                    <li><strong>Programming Languages:</strong> C++, Python, Java, C</li>
-                    <li><strong>Frameworks &amp; Tools:</strong> Flask, Firebase, Docker, Gradle, Unsloth, MySQL</li>
-                    <li><strong>Development Tools:</strong> Git, Android Studio</li>
-                    <li><strong>Web Technologies:</strong> HTML, CSS, XML, JavaScript</li>
+                    <li><strong>Programming Languages:</strong> C/C++, Rust, Python, Java, JavaScript</li>
+                    <li><strong>Frameworks &amp; Tools:</strong> Unsloth, Flask, Firebase, MySQL, Docker, Git</li>
+                    <li><strong>Projects & Experience:</strong> Full-Stack Web & Mobile Development, Low-Level Systems Programming, LLM Fine-Tuning, Embedded Systems, Real-Time Data Pipelines</li>
                 </ul>
             </div>
         </div>
