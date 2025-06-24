@@ -11,7 +11,7 @@ nav-menu: true
         <div class="content">
             <h2 style="text-align: center;">Who Am I?</h2>
             <p style="text-align: justify;">
-                My name is Cole Johnson. I'm a recent graduated, originally from the Washington, 
+                My name is Cole Johnson. I'm a recent graduate, originally from the Washington, 
                 D.C. area, and have my Bachelor of Science in Computer Science from the University of Southern California. My studies have also taken me abroad to the University of Edinburgh for a semester. Outside of tech, my biggest hobbies include playing sports (especially basketball, soccer, and tennis), reading science fiction, and learning new languages.
             </p>
 
